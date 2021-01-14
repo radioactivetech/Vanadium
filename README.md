@@ -1,2 +1,2 @@
 # Vanadium
-A browser
+A flexible browser
